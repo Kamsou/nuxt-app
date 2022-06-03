@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxi generate",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "nuxi generate",
     "preview": "nuxt preview"
   },
   "devDependencies": {
